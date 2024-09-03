@@ -1,0 +1,38 @@
+#menu ul li{
+    list-style-type: none;
+    float: left;
+}
+
+#menu ul li a{
+    background-color: chartreuse;
+    padding: 20px;
+    text-decoration: none;
+}
+#menu ul li a:hover{
+    background-color:gold
+}
+.bloco{
+    width: 50%;
+    height: auto;
+    display: block;
+    float: left;
+    background-color: cadetblue;
+}
+.bloco img{
+    width: 45%;
+
+}
+.bloco p{
+    width: 45%;
+    margin left: 5%;
+}
+.esq{
+    float: left;
+}
+.dir{
+    float: right;
+}
+.quebra{
+    clear:both ;
+    margin-bottom: 30px;
+}
